@@ -1,0 +1,11 @@
+VZETA - catálogo web V6
+
+Corrección principal:
+- Logo original de VZETA usado sin modificar.
+- Se mantienen borde, letras negras y partes blancas del logo.
+- El logo va dentro de una caja blanca sobre la barra lilita #d9d5ed.
+- Se mantienen Kollektif para textos y Wide Hope para títulos.
+- Se mantiene una sola barra superior y el botón Pedido destacado.
+
+Para probar:
+Descomprimir el ZIP y abrir index.html.
